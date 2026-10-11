@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">肖权2024110139</string>
+    <string name="add_text">添加文本</string>
+    <string name="query">查询</string>
+    <string name="hint_input">请输入查询内容</string>
+    <string name="new_item">这是一条新文本</string>
+</resources>
